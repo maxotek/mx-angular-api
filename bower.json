@@ -1,12 +1,12 @@
 {
-    "name": "your-project-name",
-    "description": "What your awesome project does",
+    "name": "mx-angular-api",
+    "description": "AngularJS service for calling REST APIs",
     "version": "1.0.0",
-    "homepage": "https://github.com/you/your-project-name",
+    "homepage": "https://github.com/maxotek/mx-angular-api",
     "license": "MIT",
     "private": false,
     "dependencies": {
         "angular": "v1.6.9"
     },
-    "main": "dist/your-project-name.js"
+    "main": "dist/mx-angular-api.js"
 }

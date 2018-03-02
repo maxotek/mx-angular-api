@@ -1,9 +1,9 @@
 {
-  "name": "your-project-name",
+  "name": "mx-angular-api",
   "private": false,
   "version": "1.0.0",
-  "description": "What your awesome project does",
-  "repository": "https://github.com/you/your-project-name",
+  "description": "AngularJS service for calling REST APIs",
+  "repository": "https://github.com/maxotek/mx-angular-api.git",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.8.0",

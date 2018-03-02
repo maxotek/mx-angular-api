@@ -4,7 +4,7 @@
 module.exports = {
     srcJs: ["src/**/*js"],
     buildFolder: "dist",
-    buildJsFilename: "your-project-name.js",
+    buildJsFilename: "mx-angular-api.js",
     banner: "/*!\n" +
         " * See LICENSE in this repository for license information\n" +
         " */\n",
