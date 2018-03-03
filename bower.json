@@ -1,7 +1,7 @@
 {
     "name": "mx-angular-api",
     "description": "AngularJS service for calling REST APIs",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "homepage": "https://github.com/maxotek/mx-angular-api",
     "license": "MIT",
     "private": false,
