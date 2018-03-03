@@ -8,5 +8,13 @@
     "dependencies": {
         "angular": "v1.6.9"
     },
+    "ignore": [
+        "node_modules",
+        "src",
+        "test",
+        ".gitignore",
+        "CHANGELOG.md",
+        "package.json"
+    ],
     "main": "dist/mx-angular-api.js"
 }
